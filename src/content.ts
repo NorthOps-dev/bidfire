@@ -1,5 +1,5 @@
 // Product name used across the site. Change it here (the logo files in /public are separate).
-export const PRODUCT_NAME = "FireBid";
+export const PRODUCT_NAME = "FireBids";
 
 export type Tone = "green" | "orange";
 

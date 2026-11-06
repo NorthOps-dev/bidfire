@@ -15,7 +15,7 @@ import {
 type Page = "home" | "privacy" | "terms";
 
 const ROLE_STEP = 520; // px of scrolling per role in "Who it's for"
-const PROMO_KEY = "firebid-promo-dismissed";
+const PROMO_KEY = "firebids-promo-dismissed";
 const PROMO_SNOOZE_MS = 7 * 24 * 60 * 60 * 1000;
 const PROMO_DELAY_MS = 40_000;
 

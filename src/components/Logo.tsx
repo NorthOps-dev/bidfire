@@ -4,7 +4,7 @@ export function Wordmark({ tone = "dark" }: { tone?: "dark" | "light" }) {
   return (
     <img
       className="brand-logo"
-      src={tone === "light" ? "/firebid-logo-on-dark.png" : "/firebid-logo.png"}
+      src={tone === "light" ? "/firebids-logo-on-dark.png" : "/firebids-logo.png"}
       alt={PRODUCT_NAME}
     />
   );
