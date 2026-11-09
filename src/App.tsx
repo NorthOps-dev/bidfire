@@ -182,11 +182,11 @@ function Home({ onNav }: { onNav: (href: string) => void }) {
           <div className="hero-row">
             <div className="hero-copy">
               <h1>
-                Win more.
+                Price Accurately.
                 <br />
-                Bid faster.
+                Win More Jobs.
                 <br />
-                <em>Better margins.</em>
+                <em>Keep Your Margin.</em>
               </h1>
               <p>Bid software that turns a finished sprinkler design into a priced, ready-to-send bid.</p>
               <a className="btn" href="#demo" onClick={(e) => { e.preventDefault(); onNav("#demo"); }}>
