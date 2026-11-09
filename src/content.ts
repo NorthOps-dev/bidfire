@@ -11,9 +11,9 @@ export const nav = [
 ];
 
 export const customers = [
-  { name: "Total Fire Protection", src: "/clients/mono-total-fire-protection.png", height: 44 },
-  { name: "Victory Fire Protection", src: "/clients/mono-victory-fire-protection.png", height: 36 },
-  { name: "Nielsen Studios", src: "/clients/mono-nielsen-studios.png", height: 28 },
+  { name: "Total Fire Protection", src: "/clients/total-fire-protection.png", height: 56 },
+  { name: "Victory Fire Protection", src: "/clients/victory-fire-protection.png", height: 46 },
+  { name: "Nielsen Studios", src: "/clients/nielsen-studios.png", height: 36 },
 ];
 
 export const tools = [

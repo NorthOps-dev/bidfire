@@ -235,14 +235,14 @@ input::placeholder { color: var(--dim); }
 /* Trusted by */
 .trusted .wrap {
   padding-top: 8px;
-  padding-bottom: 72px;
+  padding-bottom: 80px;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  gap: 20px 56px;
+  gap: 24px 64px;
 }
-.trusted .eyebrow { color: var(--faint); }
+.trusted .eyebrow { color: var(--ink); }
 .trusted ul {
   list-style: none;
   margin: 0;
@@ -251,7 +251,7 @@ input::placeholder { color: var(--dim); }
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  gap: 20px 56px;
+  gap: 24px 64px;
 }
 .trusted img { display: block; width: auto; }
 

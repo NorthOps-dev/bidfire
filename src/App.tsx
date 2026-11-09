@@ -184,7 +184,7 @@ function Home({ onNav }: { onNav: (href: string) => void }) {
               <h1>
                 Win more.
                 <br />
-                Bid faster.
+                Price right.
                 <br />
                 <em>Better margins.</em>
               </h1>
